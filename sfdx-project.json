@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "Magic Plan Integration",
+      "versionDescription": "Magicplan integration & flows"
+    }
+  ],
+  "name": "caliber-magicplan",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "64.0",
+  "packageAliases": {
+    "Magic Plan Integration": "0Hoaj0000000rNhCAI"
+  }
+}
