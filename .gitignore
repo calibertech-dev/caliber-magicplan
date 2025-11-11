@@ -46,10 +46,8 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
-.sfdx/
-.localdevserver/
-coverage/
-.npm/
-node_modules/
-.DS_Store
 
+# Local Files
+.sfdx-hardis/
+/deploy/
+/hardis-report/
